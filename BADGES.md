@@ -1,6 +1,7 @@
 # Badges
 ### Website
-[Static Badge](https://shields.io/badges/static-badge)
+[Static Badge](https://shields.io/badges/static-badge)\
+[Simple Icons](https://simpleicons.org/)
 
 ### Links
 | Link To             | Preview               | Code                 |
