@@ -6,8 +6,8 @@
 ### Links
 | Link To             | Preview               | Code                 |
 |:-------------------:|:---------------------:|:---------------------|
-| Modrinth            | [![Static Badge](https://img.shields.io/badge/Modrinth-%231bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui) | `[![Static Badge](https://img.shields.io/badge/Modrinth-%231bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui)` |
-| GitHub              | [![Static Badge](https://img.shields.io/badge/GitHub-%2324292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI) | `[![Static Badge](https://img.shields.io/badge/GitHub-%2324292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI)` |
+| Modrinth            | [![Static Badge](https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui) | `[![Static Badge](https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui)` |
+| GitHub              | [![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI) | `[![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI)` |
 
 ### Status
 Alpha 
