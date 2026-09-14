@@ -23,7 +23,7 @@ Do not ask for it.
 
 | Minecraft           | Status                | Version              |
 |:-------------------:|:---------------------:|:--------------------:|
-| 1.21-1.21.1         | ![Static Badge](https://img.shields.io/badge/Release-green?style=flat-square) | 1.0                  |
+| 1.21-1.21.1         | ![Static Badge](https://img.shields.io/badge/Release-green?style=flat-square) | [1.0](https://modrinth.com/resourcepack/dark-flowery-gui/version/1.0)                  |
 | 1.21.2+             | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr />               |
 
 </details>
