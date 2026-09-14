@@ -1,4 +1,4 @@
-![Title Banner](https://cdn.modrinth.com/data/bzHilw9s/images/ef460f09becee3ca6c559078ad63ab08e3813ccd.png)
+![Title Banner](https://github.com/ObsyTek/Dark-Flowery-GUI/blob/main/Project%20Images/Title.png?raw=true)
 
 [![Static Badge](https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui)
 [![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI)
