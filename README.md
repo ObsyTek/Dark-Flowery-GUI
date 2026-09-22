@@ -22,14 +22,14 @@ I've wanted a "dark recolor" of it for a while now and chose to do it myself, wi
   
 <summary>
   
-### Minecraft Vanilla
+### Versions
   
 </summary>
 
 | Minecraft           | Status                | Version              |
 |:-------------------:|:---------------------:|:--------------------:|
-| 1.21-1.21.1         | ![Static Badge](https://img.shields.io/badge/Release-green?style=flat-square) | [1.0](https://modrinth.com/resourcepack/dark-flowery-gui/version/1.0)                  |
-| 1.21.2+             | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr />               |
+| `1.21 / 1.21.1`         | ![Static Badge](https://img.shields.io/badge/Release-green?style=flat-square) | [1.0](https://modrinth.com/resourcepack/dark-flowery-gui/version/1.0)                  |
+| `1.21.2+`             | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr />               |
 
 </details>
 
@@ -46,10 +46,15 @@ Do not ask for it.
   </summary>
   
 | Mod                 | Status                | Version              |
-|:-------------------:|:---------------------:|:--------------------:|
-| <hr />              | <hr />                | <hr />               |
-| <hr />              | <hr />                | <hr />               |
-| <hr />              | <hr />                | <hr />               |
+|:--------------------|:---------------------:|:--------------------:|
+| [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [Accessories](https://modrinth.com/project/jtmvUHXj) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [AppleSkin](https://modrinth.com/project/EsAfCjCV) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [Jade 🔍](https://modrinth.com/project/nvQzSEkH) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [Mod Menu](https://modrinth.com/project/mOgUt4GM) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [No Chat Reports](https://modrinth.com/project/qQyHxfxd) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
+| [Paginated Advancements & Custom Frames](https://modrinth.com/project/pJogNFap) | ![Static Badge](https://img.shields.io/badge/Planned-lightgray?style=flat-square) | <hr /> |
 
 </details>
 
