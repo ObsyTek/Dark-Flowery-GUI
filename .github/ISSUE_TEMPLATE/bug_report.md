@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 **Minecraft :**
  - Version : [e.g. 1.21.1]
  - Modded : [yes/no]
- - If modded, do you use mods that are not listed in [Mods Support](https://github.com/ObsyTek/Dark-Flowery-GUI#mods-support) ?
+  - If modded, do you use mods that are not listed in [Mods Support](https://github.com/ObsyTek/Dark-Flowery-GUI#mods-support) ?
 
 **Additional context**
 Add any other context about the problem here.
