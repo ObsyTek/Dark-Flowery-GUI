@@ -1,7 +1,13 @@
-![Title Banner](https://github.com/ObsyTek/Dark-Flowery-GUI/blob/main/Project%20Images/Title.png?raw=true)
+![Title Banner](https://github.com/ObsyTek/Dark-Flowery-GUI/blob/b454c420d01bb341e5d29b67813516031675d5d5/.github/GALLERY/Title.png)
 
-[![Static Badge](https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dark-flowery-gui)
-[![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI)
+<p align="center">
+  <a href="https://modrinth.com/project/bzHilw9s">
+    <img src="https://github.com/ObsyTek/Dark-Flowery-GUI/blob/43976a3271073305ec637dd7cba7225c79609c59/.github/BADGES/Modrinth.png" alt="Modrinth Badge">
+  </a>
+  <a href="https://github.com/ObsyTek/Dark-Flowery-GUI">
+    <img src="https://github.com/ObsyTek/Dark-Flowery-GUI/blob/e8f67a10aa73d44c56aa83645d4782f9b18a484a/.github/BADGES/GitHub.png" alt="GitHub Badge">
+  </a>
+</p>
 
 A Resource Pack overhauling the Minecraft UI beautifying it with flowery vines and flowers.\
 Based on **Overgrown Flowery GUI** with permission from **Kchem**.
