@@ -4,22 +4,27 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObsyTek/Dark-Flowery-GUI)
 
 A Resource Pack overhauling the Minecraft UI beautifying it with flowery vines and flowers.\
-Based on **Overgrown Flowery GUI** with permission from **Kchem**. <br/>
+Based on **Overgrown Flowery GUI** with permission from **Kchem**.
+<br>
 
-This is NOT an official recolor. I am NOT affiliated to the Garden Gals Organization.\
+> [!IMPORTANT] 
+> This is NOT an official recolor. I am NOT affiliated to the Garden Gals Organization.\
 Do NOT contact them for any issues with this ressource pack.\
-I've wanted a "dark recolor" of it for a while now and chose to do it myself, with some tweaks and add beside colors. <br/>
+I've wanted a "dark recolor" of it for a while now and chose to do it myself, with some tweaks and add beside colors.
+
+<br>
+
+---
+
+## Supports / Compatibilities
 
 <details>
   
 <summary>
   
-### Versions 
-
-</summary>
+### Minecraft Vanilla
   
-> I WILL NOT backport the resource pack to versions before 1.21.\
-Do not ask for it.
+</summary>
 
 | Minecraft           | Status                | Version              |
 |:-------------------:|:---------------------:|:--------------------:|
@@ -28,17 +33,17 @@ Do not ask for it.
 
 </details>
 
+> [!WARNING]
+> I WILL NOT backport the resource pack to versions before 1.21\
+Do not ask for it.
+
 <details>
   
 <summary>
   
-### Mods Support
-
-</summary>
-
-> I already plan on adding support for a large list of mods.\
-I will update this list soon with planned / in active work support.\
-I do not take suggestions currenlty, but this might change once all I have planned is done.
+  ### Mods
+  
+  </summary>
   
 | Mod                 | Status                | Version              |
 |:-------------------:|:---------------------:|:--------------------:|
@@ -47,7 +52,15 @@ I do not take suggestions currenlty, but this might change once all I have plann
 | <hr />              | <hr />                | <hr />               |
 
 </details>
-<br><br/>
+
+> [!NOTE]
+> I already plan on adding support for a large list of mods.\
+I will update this list soon with planned / in active work support.\
+I do not take suggestions currenlty, but this might change once all I have planned is done.
+
+<br>
+
+---
 
 ## About Overgrown Flowery GUI - *Original Assets*
 
