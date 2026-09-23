@@ -1,11 +1,11 @@
-![Title Banner](https://github.com/ObsyTek/Dark-Flowery-GUI/blob/b454c420d01bb341e5d29b67813516031675d5d5/.github/GALLERY/Title.png)
+![Title Banner](https://raw.githubusercontent.com/ObsyTek/Dark-Flowery-GUI/refs/heads/main/.github/GALLERY/Title.png)
 
 <p align="center">
   <a href="https://modrinth.com/project/bzHilw9s">
-    <img src="https://github.com/ObsyTek/Dark-Flowery-GUI/blob/43976a3271073305ec637dd7cba7225c79609c59/.github/BADGES/Modrinth.png" alt="Modrinth Badge">
+    <img src="https://raw.githubusercontent.com/ObsyTek/Dark-Flowery-GUI/5cccb4dab0b13a6c1daf2488eb100c76691d6960/.github/BADGES/Modrinth.svg" alt="Modrinth Badge" width="150">
   </a>
   <a href="https://github.com/ObsyTek/Dark-Flowery-GUI">
-    <img src="https://github.com/ObsyTek/Dark-Flowery-GUI/blob/e8f67a10aa73d44c56aa83645d4782f9b18a484a/.github/BADGES/GitHub.png" alt="GitHub Badge">
+    <img src="https://raw.githubusercontent.com/ObsyTek/Dark-Flowery-GUI/5cccb4dab0b13a6c1daf2488eb100c76691d6960/.github/BADGES/GitHub.svg" alt="GitHub Badge" width="150">
   </a>
 </p>
 
